@@ -1,0 +1,25 @@
+   Region Order Coverage Net Competitiveness    # of Item
+0      ID         13.38%               3.68%  Electronics
+1      ID         13.41%               0.34%         FMCG
+2      ID         13.63%              -0.33%      Fashion
+3      ID         14.21%              -2.79%    Lifestyle
+4      SG         10.56%              -7.43%  Electronics
+5      SG         10.43%              -3.65%         FMCG
+6      SG         10.71%              -3.63%      Fashion
+7      SG         10.03%             -10.00%    Lifestyle
+8      TH          9.98%              -1.45%  Electronics
+9      TH         10.02%               1.45%         FMCG
+10     TH         10.22%               2.08%      Fashion
+11     TH          9.84%               0.20%    Lifestyle
+12     PH         12.20%              -6.38%  Electronics
+13     PH         12.83%               3.35%         FMCG
+14     PH         13.52%               6.48%      Fashion
+15     PH         13.06%              -3.06%    Lifestyle
+16     MY         13.47%              -0.84%  Electronics
+17     MY         17.26%               6.11%         FMCG
+18     MY         15.42%              -8.18%      Fashion
+19     MY         16.19%               3.56%    Lifestyle
+20     VN         13.12%               1.13%  Electronics
+21     VN         12.44%               0.19%         FMCG
+22     VN         13.01%              -5.00%      Fashion
+23     VN         13.12%              -1.54%    Lifestyle
