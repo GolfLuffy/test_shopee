@@ -22,12 +22,12 @@ for i in range(len(table)):
 #Set new logic
 for i in old_table:
     for j in range(len(old_table[i])):
-        if 'Shopee > CPT' in cpt_status[i][j]:
-            new_table[i]='Shopee > CPT'
+        if 'Shopee < CPT' in cpt_status[i][j]:
+            new_table[i]='Shopee < CPT'
         elif 'Shopee = CPT' in cpt_status[i][j]:
             new_table[i] = 'Shopee = CPT'
-        elif 'Shopee < CPT' in cpt_status[i][j]:
-            new_table[i] = 'Shopee < CPT'
+        elif 'Shopee > CPT' in cpt_status[i][j]:
+            new_table[i] = 'Shopee > CPT'
         else:
             new_table[i] = 'Others'
 
